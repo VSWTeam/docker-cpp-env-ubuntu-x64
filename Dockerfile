@@ -5,6 +5,7 @@ RUN set -eu; \
     axel \
     cpio \
     sudo \
+    gdb \
     gdbserver \
     lsb-release \
     openssh-server \
